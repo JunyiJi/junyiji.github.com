@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junyi Ji / Road Safety and Sustanable Transportation"
+title                    : "Junyi Ji"
 title_separator          : "-"
 name                     : &name "Junyi Ji"
 description              : &description "Master student"
