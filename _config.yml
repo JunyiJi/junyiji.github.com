@@ -9,8 +9,9 @@
 locale                   : "en-US"
 title                    : "Junyi Ji / Road Safety and Sustanable Transportation"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Junyi Ji"
+description              : &description "Master student"
+description              : &description "Southeast University"
 url                      : https://junyiji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JunyiJi/junyiji.github.com"
@@ -80,14 +81,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Junyi Ji"
+  avatar           : "Junyi.jpg"
+  bio              : |
+    Master student, <br>
+    Southeast University <br>
+  location         : "Nanjing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jijunyi@seu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Junyi Ji"
   google_plus      :
   keybase          :
   instagram        :
