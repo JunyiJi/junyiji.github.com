@@ -8,6 +8,7 @@ Road Safety
 ------
 
 **Project 1: Crash Risk Modeling Using Crash Video from Monocular Camera**
+
 *Aim and Scope:*
 * Invesitgate the relationship between surrogate safety measurement (mainly the traffic conflict measurements) and crash risk
 * Redefine the concept of SSM
@@ -20,6 +21,7 @@ Road Safety
 Sustainable Mobility
 ------
 **Project 3: BikeShareIQ: Bike sharing multi-modes market share competition and cooperation relationship identification and quantification**
+
 *Aim and Scope:*
 * Compare the usage and travel patterns of multi-modal bike sharing systems
 * Identify which relationship existed among bike sharing multi-modes -- competition or cooperation
