@@ -9,7 +9,7 @@ author_profile: true
 
 * 10/2019:  New translated article from **The Economist** - ***Autonomous cars: Traffic, jammed*** and ***Self-driving cars: Autonomous ways*** was published on Wechat platform of *SustainableCity* named as [**A Song of Ice and Fire - Autonomous Driving with Chinese characteristics**(冰与火之歌 - 中国特色的自动驾驶之路)](https://mp.weixin.qq.com/s/duVGa4en9znjUTzprtNC4g).
 
-* 8/2019:  Waymo Shared their [self-driving data](https://waymo.com/open/data/) with combined sensors including LiDAR, radar and cameras for research. We are trying to model the dataset with domain knowledge in transportation research.
+* 8/2019:  Waymo shared their [self-driving data](https://waymo.com/open/data/) with combined sensors including LiDAR, radar and cameras for research. We are trying to model the dataset with domain knowledge in transportation research.
 
 * 6/2019:  Visited the NU-TREND Lab led by Yu(Marco) Nie at Northwestern University in Summer 2019.
 
